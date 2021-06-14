@@ -1,5 +1,5 @@
 /dist/
 /node_modules/
-/out/
 
 /lib/*.js
+/lib/*.js.map
